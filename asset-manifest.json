@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hash-router/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/hash-router/static/js/main.060e4e06.chunk.js",
+    "main.js.map": "/hash-router/static/js/main.060e4e06.chunk.js.map",
+    "runtime-main.js": "/hash-router/static/js/runtime-main.05a284b9.js",
+    "runtime-main.js.map": "/hash-router/static/js/runtime-main.05a284b9.js.map",
+    "static/js/2.3555b862.chunk.js": "/hash-router/static/js/2.3555b862.chunk.js",
+    "static/js/2.3555b862.chunk.js.map": "/hash-router/static/js/2.3555b862.chunk.js.map",
+    "index.html": "/hash-router/index.html",
+    "precache-manifest.c5c4581e58537b769aaec0b7b6639dad.js": "/hash-router/precache-manifest.c5c4581e58537b769aaec0b7b6639dad.js",
+    "service-worker.js": "/hash-router/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/hash-router/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.3555b862.chunk.js.LICENSE.txt": "/hash-router/static/js/2.3555b862.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05a284b9.js",
+    "static/js/2.3555b862.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.060e4e06.chunk.js"
+  ]
+}
